@@ -12,3 +12,6 @@ This is a good example of [my code](https://gist.github.com/ldself/99a589e7f6a05
 
 ### Colab example
 This is the [notebook](https://github.com/ldself/cloud-technical-discussion/blob/main/Practice-Markdown.ipynb)
+
+### Image
+https://github.com/ldself/cloud-technical-discussion/issues/1#issue-988584528
